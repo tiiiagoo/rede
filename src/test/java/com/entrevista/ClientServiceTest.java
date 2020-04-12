@@ -20,7 +20,7 @@ import com.entrevista.service.ClientService;
 @DataJpaTest
 public class ClientServiceTest {
 	
-	@Autowired
+    @Autowired
     private ClientService clientService;
     
     @Test
